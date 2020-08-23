@@ -14,3 +14,13 @@ Nattawoot Denduangchai
 - Lecture 9 - Flask
 - Lecture 10 - The End
 
+### CS50W - Web Programming with Python and JavaScript Lectures
+- Lecture 0 - HTML, CSS
+- Lecture 1 - Git
+- Lecture 2 - Python
+- Lecture 3 - Django
+- Lecture 3 - SQL, Models, and Migrations
+- Lecture 4 - JavaScript
+- Lecture 5 - User Interfaces
+- Lecture 6 - Testing, CI/CD
+- Lecture 7 - Scalability and Security
